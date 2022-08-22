@@ -1,0 +1,14 @@
+# a40xx-user 11 RP1A.200720.012 A405FNXXU4CVG2 release-keys
+- manufacturer: 
+- platform: universal7904
+- codename: a40
+- flavor: a40xx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A405FNXXU4CVG2
+- tags: release-keys
+- fingerprint: samsung/a40xx/a40:11/RP1A.200720.012/A405FNXXU4CVG2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a40xx-user-11-RP1A.200720.012-A405FNXXU4CVG2-release-keys
+- repo: samsung_a40_dump
