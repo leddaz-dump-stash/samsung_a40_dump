@@ -1,0 +1,12 @@
+{
+    "update_version": 1,
+    "note": "Enable IMS for Free_FR",
+    "imsswitch_update": {
+        "imsswitch": [
+            {
+                "mnoname": "Free_FR",
+                "enableServiceVolte": true
+            }
+        ]
+    }
+}
